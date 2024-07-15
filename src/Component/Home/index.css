@@ -1114,5 +1114,11 @@ body{
   display: flex;
   flex-direction: column;
 }
+  .main-nav-card {
+  background-image: url("https://res.cloudinary.com/djo2jovhh/image/upload/v1721053731/Mask_group_z46ju4.svg");
+  height: 120vh;
+  width: 100vw;
+  background-size: cover;
+}
 
 }
