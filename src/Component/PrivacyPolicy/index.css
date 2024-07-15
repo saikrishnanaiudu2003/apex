@@ -1,0 +1,19 @@
+.privacy-card{
+    margin-left: 100px;
+    margin-top: 100px
+}
+
+.privacy-para{
+    width: 1100px;
+}
+
+@media (max-width: 768px){
+    .privacy-card{
+        margin-left: 10px;
+        margin-top: 100px;
+        text-align: left;
+    }
+    .privacy-para{
+        width: 100vw;
+    }
+}
