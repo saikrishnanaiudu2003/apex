@@ -365,7 +365,7 @@ const Home = () => {
             </div>
             
         </Carousel> */}
-            </div>
+{/*             </div>
           </div>
         
 
@@ -526,7 +526,7 @@ const Home = () => {
               </div>
  */}
             </div>
-            {/* <div className='footer-end-card'>
+            {/* <div className='footer-end-card'> */}
               <div className="main-footer-last-end">
                 <div className='email-card'>
                 <MdOutlineMailOutline  color="#D8008B" size={25} />
