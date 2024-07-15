@@ -7,7 +7,7 @@ body {
 
 .main-nav-card {
   background-image: url("https://res.cloudinary.com/djo2jovhh/image/upload/v1721053731/Mask_group_z46ju4.svg");
-  height: 803px;
+  height: 100vh;
   width: 100vw;
   background-size: cover;
 }
@@ -993,10 +993,7 @@ margin-left: 0px;
 .arrow{
   display: none;
 }
-.main-nav-card{
-  height: 130vh;
-  width: 100vw;
-}
+
 .button-group{
   display: none;
 }
