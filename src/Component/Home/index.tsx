@@ -83,7 +83,7 @@ const Home = () => {
             width={541}
             className='women-image-sm'
           />
-           <div className='services-card'>
+{/*            <div className='services-card'>
           <div className='flex-items-card-below'>
             <div className='main-flex-card-items'>
               <div>
@@ -524,7 +524,7 @@ const Home = () => {
 
                </div>
               </div>
-
+ */}
             </div>
             {/* <div className='footer-end-card'>
               <div className="main-footer-last-end">
